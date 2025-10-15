@@ -4,7 +4,7 @@
 - 👀 I’m interested in technology, sports, travelling and reading!
 - 🌱 I’m currently taking a master's degree in Software Engineering!
 - 💞️ I’ve graduated in Computer Science at FCUL, Portugal.
-- 📫 How to reach me: You can send me an [email](egipto.filipe@gmail.com) or message me on [LinkedIn](https://linkedin.com/in/filipe-egipto)
+- 📫 How to reach me: You can send me an email to egipto.filipe@gmail.com or message me on [LinkedIn](https://linkedin.com/in/filipe-egipto)
 - ⚡ Fun fact: I've represented Portugal twice as a sailor in my youth!
 - 💻 Repositories: You can take a look at some of my:
   MSc. Thesis projects (Portuguese Accessibility Monitoring Ecosystem):
