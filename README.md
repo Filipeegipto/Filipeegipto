@@ -14,11 +14,11 @@
 
 💻 Repositories: You can take a look at some of my:
 - MSc. Thesis projects (Portuguese Accessibility Monitoring Ecosystem):
-  - [Admin Monitor Suite](https://github.com/Filipeegipto/admin-monitor-suite): Added support to uploads of evaluations from the new AccessMonitor Extension. Technologies used: Angular, TypeScript, JavaScript, HTML, CSS.
+  - [Admin Monitor Suite](https://github.com/Filipeegipto/admin-monitor-suite/tree/develop): Added support to uploads of evaluations from the new AccessMonitor Extension. Technologies used: Angular, TypeScript, JavaScript, HTML, CSS.
   - [Access Monitor Extension](https://github.com/Filipeegipto/accessmonitor-ce): Created a brand new Chrome Extension that allows evaluating a web page accessibility directly from it. Technologies used: React, JavaScript, TypeScript, HTML, CSS.
-  - [My Monitor](https://github.com/Filipeegipto/MyMonitor): Added support to uploads of evaluations from the new AccessMonitor Extension and of manual evaluations. Technologies used: React, JavaScript, TypeScript, HTML, CSS.
-  - [Monitor Server](https://github.com/Filipeegipto/monitor-server): Included new endpoints, modules, and DB tables to support the developments made on the rest of the ecosystem tools. Technologies used: NestJS, TypeScript, JavaScript, MySQL.
-  - [Observatory Apps](https://github.com/Filipeegipto/observatory-apps): Created the first applications accessibility observatory, a new tool to include in the ecosystem. Technologies used: React, JavaScript, TypeScript, HTML, CSS.
+  - [My Monitor](https://github.com/Filipeegipto/MyMonitor/tree/develop-react): Added support to uploads of evaluations from the new AccessMonitor Extension and of manual evaluations. Technologies used: React, JavaScript, TypeScript, HTML, CSS.
+  - [Monitor Server](https://github.com/Filipeegipto/monitor-server/tree/develop): Included new endpoints, modules, and DB tables to support the developments made on the rest of the ecosystem tools. Technologies used: NestJS, TypeScript, JavaScript, MySQL.
+  - [Observatory Apps](https://github.com/Filipeegipto/observatory-apps/tree/develop): Created the first applications accessibility observatory, a new tool to include in the ecosystem. Technologies used: React, JavaScript, TypeScript, HTML, CSS.
   - [Access Monitor Rulesets](https://github.com/Filipeegipto/accessmonitor-rulesets): Created a list of solutions to the different problems the ecosystem evaluation tool is able to identify ([Access Monitor Plus](https://accessmonitor.acessibilidade.gov.pt)). Technologies used: Markdown.
 - MSc. projects:
   - [PLush Compiler](https://github.com/Filipeegipto/PLush_Compiler): The main idea of this project was to develop a compiler for a language (PLush), created by the professor to easy the initial learning of how to write code for 1st year BSc. students. Technologies used: Python, Shell script, Clang, PLush.
